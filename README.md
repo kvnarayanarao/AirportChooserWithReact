@@ -14,6 +14,7 @@ $ npm install
 >1. Have build the application using react-create-app
 >2. Used two components
 >3. Used react-window(memozied/virtualized component to control the dom size)
+>4. Dropdown is searchable on any filed.
 
 #Improvement Areas
 >1. On selection of Airport from the dropdwon, we can have a overlay with the selected entry details.
